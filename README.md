@@ -1,2 +1,3 @@
 # student
-spring boot project
+spring boot project + mybatis
+Operating a student roster SQL system
