@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fhb.studentspringboot.dao.StudentMapper">
+    <select id="AllStudent" resultType="java.util.Map">
+        select * from student where delete_status = false
+    </select>
+
+    <select id="realAllStudent" resultType="java.util.Map">
+        select * from student
+    </select>
+
+    <select id="GetById" resultType="java.util.Map">
+        select * from student where id = #{id}
+    </select>
+    
+    <select id="GetByName" resultType="java.util.Map">
+        select * from student where name = #{name}
+    </select>
+
+    <insert id="insert" parameterType="com.fhb.studentspringboot.entity.Student">
+        insert into student(id, name, delete_status, create_date, update_date)
+        values (#{id}, #{name}, false, DATE_FORMAT(now(),"%Y-%m-%d %T"), DATE_FORMAT(now(),"%Y-%m-%d %T"))
+    </insert>
+
+    <update id="update" parameterType="com.fhb.studentspringboot.entity.Student">
+        update student set name = #{name} , update_date = DATE_FORMAT(now(),"%Y-%m-%d %T") where id = #{id} and not exists(
+        select * from (select * from student) as b where name = #{name}
+        )
+    </update>
+
+    <delete id="delete" parameterType="int">
+        delete from student where id = #{id} and delete_status = true
+    </delete>
+
+    <update id="tombstone" parameterType="int">
+        update student set delete_status = true, update_date = DATE_FORMAT(now(),"%Y-%m-%d %T") where id = #{id}
+    </update>
+
+    <update id="recoverUser" parameterType="int">
+        update student set delete_status = false, update_date = DATE_FORMAT(now(),"%Y-%m-%d %T") where id = #{id}
+    </update>
+
+    <select id="findDS" parameterType="int" resultType="boolean">
+        select delete_status from student where id = #{id}
+    </select>
+
+</mapper>

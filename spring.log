@@ -1,0 +1,269 @@
+2019-07-25 15:23:11.554  INFO 15644 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 15644 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:23:11.569  INFO 15644 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:23:12.990  INFO 15644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:23:13.022  INFO 15644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:23:13.022  INFO 15644 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:23:13.131  INFO 15644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:23:13.131  INFO 15644 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1515 ms
+2019-07-25 15:23:13.475  INFO 15644 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:23:13.694  INFO 15644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:23:13.694  INFO 15644 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.671 seconds (JVM running for 4.124)
+2019-07-25 15:23:55.630  INFO 15644 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:23:55.631  INFO 15644 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:23:55.641  INFO 15644 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2019-07-25 15:30:50.163  INFO 8276 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 8276 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:30:50.163  INFO 8276 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:30:51.861  INFO 8276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:30:51.877  INFO 8276 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:30:51.877  INFO 8276 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:30:51.955  INFO 8276 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:30:51.955  INFO 8276 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1713 ms
+2019-07-25 15:30:52.251  INFO 8276 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:30:52.470  INFO 8276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:30:52.470  INFO 8276 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.806 seconds (JVM running for 3.907)
+2019-07-25 15:31:11.421  INFO 8276 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:31:11.422  INFO 8276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:31:11.429  INFO 8276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-07-25 15:34:58.766  INFO 8068 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 8068 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:34:58.766  INFO 8068 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:34:59.986  INFO 8068 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:35:00.017  INFO 8068 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:35:00.017  INFO 8068 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:35:00.111  INFO 8068 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:35:00.111  INFO 8068 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1220 ms
+2019-07-25 15:35:00.412  INFO 8068 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:35:00.615  INFO 8068 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:35:00.631  INFO 8068 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.38 seconds (JVM running for 3.433)
+2019-07-25 15:35:31.749  INFO 8068 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:35:31.750  INFO 8068 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:35:31.760  INFO 8068 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-07-25 15:38:48.944  INFO 12236 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 12236 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:38:48.959  INFO 12236 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:38:50.390  INFO 12236 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:38:50.406  INFO 12236 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:38:50.406  INFO 12236 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:38:50.500  INFO 12236 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:38:50.500  INFO 12236 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1478 ms
+2019-07-25 15:38:50.937  INFO 12236 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:38:51.125  INFO 12236 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:38:51.140  INFO 12236 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.665 seconds (JVM running for 3.753)
+2019-07-25 15:39:07.313  INFO 12236 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:39:07.314  INFO 12236 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:39:07.320  INFO 12236 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 15:39:07.350  INFO 12236 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 15:39:07.693  INFO 12236 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 15:43:13.682  INFO 14932 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 14932 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:43:13.682  INFO 14932 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:43:15.104  INFO 14932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:43:15.135  INFO 14932 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:43:15.135  INFO 14932 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:43:15.229  INFO 14932 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:43:15.229  INFO 14932 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1500 ms
+2019-07-25 15:43:15.588  INFO 14932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:43:15.776  INFO 14932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:43:15.791  INFO 14932 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.515 seconds (JVM running for 3.652)
+2019-07-25 15:43:23.427  INFO 14932 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:43:23.428  INFO 14932 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:43:23.435  INFO 14932 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 15:43:23.464  INFO 14932 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 15:43:23.735  INFO 14932 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 15:43:58.678  INFO 15204 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 15204 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:43:58.684  INFO 15204 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:44:00.224  INFO 15204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:44:00.240  INFO 15204 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:44:00.240  INFO 15204 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:44:00.333  INFO 15204 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:44:00.333  INFO 15204 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1574 ms
+2019-07-25 15:44:00.713  INFO 15204 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:44:00.901  INFO 15204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:44:00.901  INFO 15204 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.686 seconds (JVM running for 3.811)
+2019-07-25 15:44:48.915  INFO 15204 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:44:48.915  INFO 15204 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:44:48.921  INFO 15204 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 15:44:48.954  INFO 15204 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 15:44:49.223  INFO 15204 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 15:48:34.978  WARN 15204 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 15:54:21.220  INFO 8532 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 8532 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 15:54:21.223  INFO 8532 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 15:54:22.807  INFO 8532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 15:54:22.837  INFO 8532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 15:54:22.838  INFO 8532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 15:54:22.935  INFO 8532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 15:54:22.935  INFO 8532 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1589 ms
+2019-07-25 15:54:23.354  INFO 8532 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 15:54:23.534  INFO 8532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 15:54:23.557  INFO 8532 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.759 seconds (JVM running for 3.924)
+2019-07-25 15:54:30.742  INFO 8532 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 15:54:30.743  INFO 8532 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 15:54:30.750  INFO 8532 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 15:54:30.777  INFO 8532 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 15:54:31.077  INFO 8532 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 15:56:28.315  WARN 8532 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 15:56:53.629  WARN 8532 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 15:57:32.532  WARN 8532 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:02:17.649  INFO 14844 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 14844 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:02:17.651  INFO 14844 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:02:18.748  INFO 14844 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:02:18.775  INFO 14844 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:02:18.775  INFO 14844 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:02:18.900  INFO 14844 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:02:18.900  INFO 14844 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1203 ms
+2019-07-25 16:02:19.321  INFO 14844 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:02:19.543  INFO 14844 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:02:19.549  INFO 14844 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.243 seconds (JVM running for 8.003)
+2019-07-25 16:03:35.193  INFO 14844 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:03:35.194  INFO 14844 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:03:35.201  INFO 14844 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-07-25 16:03:35.232  WARN 14844 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:03:50.755  WARN 14844 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:04:21.721  WARN 14844 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'delete_status': rejected value [null]; codes [typeMismatch.student.delete_status,typeMismatch.delete_status,typeMismatch.boolean,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.delete_status,delete_status]; arguments []; default message [delete_status]]; default message [Failed to convert value of type 'null' to required type 'boolean'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [boolean] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:05:17.636  INFO 14844 --- [http-nio-8080-exec-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:05:17.927  INFO 14844 --- [http-nio-8080-exec-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 16:13:22.790  INFO 11372 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 11372 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:13:22.790  INFO 11372 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:13:24.409  INFO 11372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:13:24.424  INFO 11372 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:13:24.424  INFO 11372 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:13:24.518  INFO 11372 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:13:24.518  INFO 11372 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1681 ms
+2019-07-25 16:13:24.877  INFO 11372 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:13:25.049  INFO 11372 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:13:25.065  INFO 11372 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.681 seconds (JVM running for 3.781)
+2019-07-25 16:13:38.170  INFO 11372 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:13:38.171  INFO 11372 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:13:38.178  INFO 11372 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-07-25 16:13:38.208  WARN 11372 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:15:02.089  INFO 13496 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 13496 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:15:02.105  INFO 13496 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:15:03.419  INFO 13496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:15:03.450  INFO 13496 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:15:03.450  INFO 13496 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:15:03.575  INFO 13496 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:15:03.575  INFO 13496 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1376 ms
+2019-07-25 16:15:03.950  INFO 13496 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:15:04.137  INFO 13496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:15:04.137  INFO 13496 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.485 seconds (JVM running for 3.564)
+2019-07-25 16:15:08.082  INFO 13496 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:15:08.083  INFO 13496 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:15:08.093  INFO 13496 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-07-25 16:15:08.156  WARN 13496 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:16:30.447  INFO 13496 --- [http-nio-8080-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:16:30.716  INFO 13496 --- [http-nio-8080-exec-4] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 16:16:30.752  WARN 13496 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]]; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]] (through reference chain: java.util.ArrayList[0])]
+2019-07-25 16:16:57.264  WARN 13496 --- [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]]; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]] (through reference chain: java.util.ArrayList[0])]
+2019-07-25 16:19:24.909  INFO 10748 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 10748 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:19:24.909  INFO 10748 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:19:26.564  INFO 10748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:19:26.595  INFO 10748 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:19:26.595  INFO 10748 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:19:26.673  INFO 10748 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:19:26.673  INFO 10748 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1655 ms
+2019-07-25 16:19:27.023  INFO 10748 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:19:27.320  INFO 10748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:19:27.320  INFO 10748 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.815 seconds (JVM running for 3.95)
+2019-07-25 16:19:31.134  INFO 10748 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:19:31.134  INFO 10748 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:19:31.140  INFO 10748 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 16:19:31.168  INFO 10748 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:19:31.455  INFO 10748 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 16:19:35.906  WARN 10748 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]]; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]] (through reference chain: java.util.ArrayList[0])]
+2019-07-25 16:19:47.834  WARN 10748 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]]; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]] (through reference chain: java.util.ArrayList[0])]
+2019-07-25 16:20:24.231  WARN 10748 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-07-25 16:22:30.607  WARN 10748 --- [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:23:08.334  WARN 10748 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:23:20.557  WARN 10748 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]]; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Class com.fhb.studentspringboot.entity.Student not subtype of [map type; class java.util.Map, [simple type, class java.lang.String] -> [simple type, class java.lang.Object]] (through reference chain: java.util.ArrayList[0])]
+2019-07-25 16:24:32.500  INFO 1852 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 1852 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:24:32.504  INFO 1852 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:24:34.027  INFO 1852 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:24:34.053  INFO 1852 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:24:34.053  INFO 1852 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:24:34.142  INFO 1852 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:24:34.142  INFO 1852 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1541 ms
+2019-07-25 16:24:34.517  INFO 1852 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:24:34.709  INFO 1852 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:24:34.713  INFO 1852 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.649 seconds (JVM running for 3.825)
+2019-07-25 16:24:39.261  INFO 1852 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:24:39.262  INFO 1852 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:24:39.268  INFO 1852 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 16:24:39.302  INFO 1852 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:24:39.541  INFO 1852 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 16:24:44.974  WARN 1852 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:27:45.441  WARN 1852 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2019-07-25 16:30:41.613  WARN 1852 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'student' on field 'id': rejected value [null]; codes [typeMismatch.student.id,typeMismatch.id,typeMismatch.int,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.id,id]; arguments []; default message [id]]; default message [Failed to convert value of type 'null' to required type 'int'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [null] to type [int] for value 'null'; nested exception is java.lang.IllegalArgumentException: A null value cannot be assigned to a primitive type]]
+2019-07-25 16:33:13.131  INFO 11992 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 11992 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:33:13.135  INFO 11992 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:33:14.589  INFO 11992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:33:14.613  INFO 11992 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:33:14.614  INFO 11992 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:33:14.699  INFO 11992 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:33:14.699  INFO 11992 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1514 ms
+2019-07-25 16:33:15.074  INFO 11992 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:33:15.259  INFO 11992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:33:15.263  INFO 11992 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.526 seconds (JVM running for 3.613)
+2019-07-25 16:33:27.433  INFO 11992 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:33:27.433  INFO 11992 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:33:27.440  INFO 11992 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-25 16:33:27.476  INFO 11992 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:33:27.732  INFO 11992 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 16:58:46.140  INFO 1780 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 1780 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 16:58:46.140  INFO 1780 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 16:58:47.827  INFO 1780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 16:58:47.859  INFO 1780 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 16:58:47.859  INFO 1780 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 16:58:47.947  INFO 1780 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 16:58:47.947  INFO 1780 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1744 ms
+2019-07-25 16:58:48.306  INFO 1780 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 16:58:48.494  INFO 1780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 16:58:48.494  INFO 1780 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.76 seconds (JVM running for 3.839)
+2019-07-25 16:58:59.133  INFO 1780 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 16:58:59.134  INFO 1780 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 16:58:59.144  INFO 1780 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2019-07-25 16:58:59.181  INFO 1780 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 16:58:59.439  INFO 1780 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 17:10:25.418  INFO 14788 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 14788 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 17:10:25.421  INFO 14788 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 17:10:27.112  INFO 14788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 17:10:27.137  INFO 14788 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 17:10:27.138  INFO 14788 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 17:10:27.255  INFO 14788 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 17:10:27.255  INFO 14788 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1772 ms
+2019-07-25 17:10:27.643  INFO 14788 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 17:10:27.843  INFO 14788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 17:10:27.847  INFO 14788 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.866 seconds (JVM running for 4.055)
+2019-07-25 17:11:31.672  INFO 14788 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 17:11:31.673  INFO 14788 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 17:11:31.680  INFO 14788 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-07-25 17:11:31.715  INFO 14788 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 17:11:31.974  INFO 14788 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-07-25 17:19:39.215  INFO 5612 --- [main] c.f.s.StudentspringbootApplication       : Starting StudentspringbootApplication on DESKTOP-DCG5VMC with PID 5612 (D:\IdeaProjects\student\target\classes started by FHB in D:\IdeaProjects\student)
+2019-07-25 17:19:39.218  INFO 5612 --- [main] c.f.s.StudentspringbootApplication       : No active profile set, falling back to default profiles: default
+2019-07-25 17:19:40.647  INFO 5612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-25 17:19:40.689  INFO 5612 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-25 17:19:40.689  INFO 5612 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-25 17:19:40.843  INFO 5612 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-25 17:19:40.843  INFO 5612 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1567 ms
+2019-07-25 17:19:41.325  INFO 5612 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-25 17:19:41.601  INFO 5612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-25 17:19:41.606  INFO 5612 --- [main] c.f.s.StudentspringbootApplication       : Started StudentspringbootApplication in 2.779 seconds (JVM running for 4.319)
+2019-07-25 17:19:49.243  INFO 5612 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-25 17:19:49.244  INFO 5612 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-25 17:19:49.252  INFO 5612 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-07-25 17:19:49.287  INFO 5612 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-07-25 17:19:49.696  INFO 5612 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
